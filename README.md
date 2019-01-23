@@ -1,2 +1,2 @@
 # bootstrap_media_query
-practice day 10
+https://emamulhassan.github.io/bootstrap_media_query/
